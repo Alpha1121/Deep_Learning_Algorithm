@@ -1,2 +1,3 @@
 # Deep_Learning_Algorithm
-Used to predict binary output value, uses 2 hidden layers.
+Used to whether the bank customer would leave the bank, after taking in variables of the specified customer.
+uses 2 hidden layers.
